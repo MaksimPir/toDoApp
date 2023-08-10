@@ -1,0 +1,9 @@
+.alert-wrapper{
+    position: absolute;
+    width: 80%;
+}
+.alert-btn{
+    position: absolute;
+    top:5px;
+    right:5px;
+}
